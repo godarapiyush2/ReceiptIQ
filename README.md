@@ -88,7 +88,7 @@ pip install paddleocr opencv-python pandas pymysql mysql-connector-python pymupd
 ## ▶️ Run the Application
 
 ```bash
-python app.py
+python bill_entry_app.py
 ```
 
 ---
