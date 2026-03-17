@@ -66,7 +66,7 @@ CREATE TABLE bills (
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/godarapiyush2/receiptiq-ai.git
+git clone https://github.com/godarapiyush2/receiptiq.git
 cd receiptiq-ai
 ```
 
